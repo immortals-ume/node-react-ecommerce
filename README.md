@@ -16,7 +16,7 @@
 ### 1. Clone repo
 
 ```
-$ git clone 
+$ git clone https://github.com/immortals-ume/node-react-ecommerce.git
 $ cd node-react-ecommerce
 ```
 
