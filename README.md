@@ -16,7 +16,7 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/node-react-ecommerce.git
+$ git clone 
 $ cd node-react-ecommerce
 ```
 
